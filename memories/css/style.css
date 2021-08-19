@@ -135,10 +135,16 @@ a:hover, a:active, a:focus {
   margin-left: 20px;
 }
 
-.timeline-item:nth-child(2) .timeline-img-header {
-  background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("https://hd.unsplash.com/photo-1458530970867-aaa3700e966d") center center no-repeat;
-  background-size: cover;
+.timeline-item:nth-child(1) .timeline-img-header {
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("../assets/lembrancas/2016-06-01_202332_BUST6.jpg") center center no-repeat;
+  background-size: 300px;
 }
+
+.timeline-item:nth-child(2) .timeline-img-header {
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("../assets/lembrancas/2016-07-08_204235.jpg") center center no-repeat;
+  background-size: 320px;
+}
+
 .timeline-item:nth-child(5) .timeline-img-header {
   background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("https://hd.unsplash.com/photo-1444093826349-9ce8c622f4f3") center center no-repeat;
   background-size: cover;
