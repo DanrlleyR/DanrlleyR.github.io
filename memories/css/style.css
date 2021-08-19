@@ -14,6 +14,7 @@ body {
 }
 
 h1 {
+  font-family: Montserrat , sans-serif;
   font-size: 200%;
   text-transform: uppercase;
   letter-spacing: 3px;
@@ -27,10 +28,10 @@ header {
 }
 header p {
   font-family: 'Allura';
-  color: rgba(255, 255, 255, 0.2);
+  color: rgba(255, 255, 255, 0.4);
   margin-bottom: 0;
-  font-size: 60px;
-  margin-top: -30px;
+  font-size: 40px;
+  margin-top: -20px;
 }
 
 .timeline {
