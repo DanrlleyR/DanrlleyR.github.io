@@ -195,6 +195,60 @@ a:hover, a:active, a:focus {
   background-size: 350px;
 }
 
+.timeline-item:nth-child(13) .timeline-img-header {
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("../assets/lembrancas/2017-08-13_141912.jpg") center center no-repeat;
+  background-size: 150px;
+}
+
+.timeline-item:nth-child(14) .timeline-img-header {
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("../assets/lembrancas/2017-08-18_214416.jpg") center center no-repeat;
+  background-size: 350px;
+}
+
+.timeline-item:nth-child(15) .timeline-img-header {
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("../assets/lembrancas/2017-08-23-WA0009.jpg") center center no-repeat;
+  background-size: 300px;
+}
+
+.timeline-item:nth-child(16) .timeline-img-header {
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("../assets/lembrancas/2017-08-29-WA0001.jpg") center center no-repeat;
+  background-size: 350px;
+}
+
+.timeline-item:nth-child(17) .timeline-img-header {
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("../assets/lembrancas/2017-09-05.png") center center no-repeat;
+  background-size: 200px;
+}
+
+.timeline-item:nth-child(18) .timeline-img-header {
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("../assets/lembrancas/2017-11-04_212040.jpg") center center no-repeat;
+  background-size: 300px;
+}
+
+.timeline-item:nth-child(19) .timeline-img-header {
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("../assets/lembrancas/2017-11-14-WA0015.jpg") center center no-repeat;
+  background-size: 300px;
+}
+
+.timeline-item:nth-child(20) .timeline-img-header {
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("../assets/lembrancas/2017-11-21-WA0003.jpg") center center no-repeat;
+  background-size: 300px;
+}
+
+.timeline-item:nth-child(21) .timeline-img-header {
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("../assets/lembrancas/2017-12-02_203749_1.jpg") center center no-repeat;
+  background-size: 350px;
+}
+
+.timeline-item:nth-child(22) .timeline-img-header {
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("../assets/lembrancas/2017-12-14-WA0029.jpg") center center no-repeat;
+  background-size: 300px;
+}
+
+.timeline-item:nth-child(23) .timeline-img-header {
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("../assets/lembrancas/2017-12-27-WA0005.jpg") center center no-repeat;
+  background-size: 300px;
+}
 
 .timeline-img-header {
   height: 200px;
